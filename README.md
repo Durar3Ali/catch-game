@@ -1,13 +1,13 @@
 # Catch Falling Objects Game
 
-### [**Play the Game Live in Your Browser**](https://Durar3Ali.github.io/catch-game/) 
+[**Play the Game Live in Your Browser**](https://Durar3Ali.github.io/catch-game/) 
 
 A 2D catching game inspired by the animated fantasy-comedy series "My Little Pony" look and feel. Guide the unicorn to catch the falling hearts, stars and cupcakes, while avoiding the grumpy storm clouds. 
 
 ## Credits
 
 Made as a course project for *Game Design and Development (CCS 3371)*, King Khalid University.
-
+Thank you to my instructor Ms. Humara Yaqub
 
 ## Features
 
