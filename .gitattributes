@@ -1,0 +1,9 @@
+# No Git LFS needed: the largest tracked file is ~35 MB (docs/Build/docs.wasm).
+*.cs text eol=lf
+*.md text eol=lf
+*.unity merge=binary -text
+*.png binary
+*.wav binary
+*.ttf binary
+*.wasm binary
+*.data binary
