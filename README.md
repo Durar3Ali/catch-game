@@ -1,4 +1,4 @@
-# Heart Catch Game
+# Catch Falling Objects Game
 
 ### [**Play the Game Live in Your Browser**](https://Durar3Ali.github.io/catch-game/) 
 
